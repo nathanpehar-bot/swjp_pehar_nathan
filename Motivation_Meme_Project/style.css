@@ -1,0 +1,27 @@
+.libre-baskerville {
+  color: white;
+  text-align: center;
+}
+.prvi {
+  width: 50%;
+  height: 100%;
+  margin-left: 25%;
+}
+.libre-baskerville {
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.slika {
+  border: 5px solid white;
+  width: 100%;
+  height: 200%;
+}
+.paragraf {
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: black;
+}
